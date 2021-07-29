@@ -1,0 +1,108 @@
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+        }
+        
+        h1 {
+            font-size: 40px;
+        }
+        
+        section {
+            display: flex;
+            margin-bottom: 50px;
+        }
+        
+        .eid-special {
+            color: coral;
+        }
+        
+        .half-width {
+            width: 50%;
+            padding: 5%;
+        }
+        
+        .half-width img {
+            width: 90%;
+        }
+        
+        .order-button {
+            text-decoration: none;
+            background-image: linear-gradient(rgb(66, 69, 235), cyan);
+            padding: 10px 40px;
+            color: white;
+            font-weight: 700;
+            border-radius: 30px;
+        }
+        
+        #about-me {
+            background-image: url(images/shapes/7.png);
+            background-repeat: no-repeat;
+            background-position: center
+        }
+        
+        #about-me img {
+            width: 70%;
+        }
+        
+        .center {
+            text-align: justify;
+            margin-bottom: 60px;
+            padding-left: 3%;
+        }
+        
+        .center h2 {
+            text-align: center;
+        }
+        
+        .food-items {
+            width: 29%;
+            margin-left: 2%;
+            margin-right: 2%;
+            padding-left: 20px;
+            box-shadow: 5px 5px 30px rgb(214, 210, 210);
+            border-radius: 30px;
+            margin-bottom: 50px;
+        }
+        
+        .food-items img {
+            width: 90%;
+            margin: 25px 10px;
+        }
+        
+        #subscribers {
+            box-shadow: 5px 5px 30px rgb(214, 210, 210);
+            margin-left: 2%;
+            margin-right: 2%;
+            border-radius: 20px;
+        }
+        
+        .followers {
+            width: 29%;
+            margin-left: 10%;
+            margin-right: 10%;
+            margin-top: 2%;
+            margin-bottom: 2%;
+        }
+        
+        .followers h2 {
+            text-align: center;
+        }
+        
+        footer {
+            text-align: center;
+            background-color: black;
+            color: #fff;
+            padding: 20px;
+        }
+        
+        footer p {
+            font-weight: normal;
+        }
+        
+        .food {
+            color: sandybrown;
+        }
+        
+        .network {
+            color: rgb(87, 85, 85);
+        }
